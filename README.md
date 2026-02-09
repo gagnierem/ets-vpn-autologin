@@ -1,6 +1,6 @@
 # Cookie Extractor
 
-This project automates the extraction of authentication cookies (specifically for the `webvpn` cookie) from a web login flow that uses TOTP (Time-based One-Time Password) and then uses the cookie to connect to a VPN service. It also includes a Node.js utility for extracting OTP codes from Google Authenticator migration QR codes.
+This project automates the extraction of authentication cookies (specifically the `webvpn` cookie) from the Office365 ETS login flow that uses TOTP (Time-based One-Time Password) and then uses the cookie to connect to a VPN service. It also includes a Node.js utility for extracting OTP codes from Google Authenticator migration QR codes.
 
 ## Features
 
